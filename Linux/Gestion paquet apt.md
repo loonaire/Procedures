@@ -30,6 +30,13 @@ Ensuite on peux mettre à jour les paquets:
 ```
 # apt upgrade
 ```
+
+> On peux simplifier en une seule commande (en mode root avec su - ou sudo):
+> ```
+> # apt update && apt upgrade -y
+> ```
+
+## 3. Autres commandes:
 Pour chercher un paquet:
 ```
 # apt search "terme à chercher"
