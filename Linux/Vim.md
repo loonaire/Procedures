@@ -15,6 +15,6 @@ Le fichier est trouvable [ici](/.vimrc)
 Pour le télécharger et installer:
 TODO ajouter le lien github
 ```
-wget lien -O ~/.vimrc
+wget https://raw.githubusercontent.com/loonaire/TSSR-procedures/main/Linux/.vimrc -O ~/.vimrc
 ```
 
