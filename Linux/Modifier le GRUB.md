@@ -14,3 +14,17 @@ Il faut ensuite regénerer le fichier grub.cfg dans /boot avec la commande:
 ```
 # grub-mkconfig -o /boot/grub/grub.cfg
 ```
+---
+
+On peux cacher le grub au démarrage en ajoutant (ou modifiant sur certains système) la ligne:
+```
+GRUB_TIMEOUT_STYLE=hidden
+```
+> Le mot hidden peux être remplacer par countdown 
+
+> Commenter la ligne permet de réafficher le GRUB
+
+Ensuite, il faut mettre à jour le GRUB avec la commande en mode root:
+```
+update-grub
+```
