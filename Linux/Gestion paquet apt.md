@@ -71,6 +71,7 @@ Télécharger seulement le paquet, sans l'installer:
 > ```  
 > Note: il faudra aller chercher le paquet avec la commande find.
 
+# 3. Mise à niveau d'une distribution:
 
 Pour mettre à niveau toute la distribution linux:
 ```
@@ -78,7 +79,7 @@ Pour mettre à niveau toute la distribution linux:
 ```
 
 
-# 3. Supplément dpkg
+# 4. Supplément dpkg
 
 dpkg est un outil comme apt sauf qu'il est local à l'ordinateur, pour installer un logiciel il faut utiliser la commande:
 ```
