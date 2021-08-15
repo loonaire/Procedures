@@ -53,5 +53,5 @@ Articles non terminés et potentiellement à reprendre plus tard:
 
 Idées d'articles:
 - Gestion services daemon avec systemctl et la commande services
-- Commande sed
+- Commande sed (modifier un fichier sans l'ouvrir, sans utiliser vim)
 - connaitre version du système (fichier /etc/debian_version, paquet neofetch)
