@@ -48,8 +48,10 @@
 Articles non terminés et potentiellement à reprendre plus tard:
 - vmware, la configuration des machines virtuelles, partie sur Virtual Network Editor
 - VIM
-- Gestion droits acces dossier windows
-- Partionnement diques windows
+- Gestion droits acces dossier windows (powershell)
+- Partionnement diques windows 
 
 Idées d'articles:
 - Gestion services daemon avec systemctl et la commande services
+- Commande sed
+- connaitre version du système (fichier /etc/debian_version, paquet neofetch)
