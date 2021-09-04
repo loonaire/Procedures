@@ -6,7 +6,7 @@
 ### [1. Création de machines virtuelles](VMWare/Creer%20une%20machine%20virtuelle.md)  
 ### [2. Gérer la configuration des machines virtuelles](VMWare/Gerer%20la%20configuration%20des%20machines%20virtuelles.md)
 ### [3. Installation des VMWare Tools](VMWare/Installation%20des%20VMWare%20tools.md)
-
+### [4. Activer la virtualisation d'une machine virtuelle](VMWare/Activer%20virtualisation%20vmware.md)
 ---
 ## 2. Windows
 ### [1. Installation du système](Windows/Installation%20windows%2010.md)
