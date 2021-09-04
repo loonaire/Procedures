@@ -4,7 +4,7 @@ Un site qui document en partie les fonctions powershell: https://ss64.com/
 
 ## **Afficher la version de powershell**
 On peux l'afficher en affichant la variable:
-```
+```powershell
 > $PSVersionTable
 ```
 Afficher cette variable permet d'avoir également les versions compatibles de powershell et d'autres éléments potentiellement utile.
