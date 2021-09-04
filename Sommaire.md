@@ -28,7 +28,7 @@
 ### [1. Installation du système](Linux/Installation%20Debian.md)
 ### [2. Gestion des paquets avec APT](Linux/Gestion%20paquet%20apt.md)
 ### [3. Gérer les points de monstage avec le fichier fstab](Linux/Gerer%20les%20points%20de%20montages%20et%20le%20fichier%20fstab.md)
-### [4. Gestion ndes droits des dossiers](Linux/Gestion%20des%20droits%20dossiers.md)
+### [4. Gestion des droits des dossiers](Linux/Gestion%20des%20droits%20dossiers.md)
 ### [5. Gestion des utilisateurs](Linux/Gestion%20utilisateurs.md)
 ### [6. Partionnement de disques](Linux/Partitionnement%20des%20disques.md)
 ### [7. LVM](Linux/LVM.md)
