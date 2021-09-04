@@ -48,6 +48,8 @@
 ### [1. Le téléchargement de fichier via wget](Divers/wget.md)
 
 
+## Idées
+
 Articles non terminés et potentiellement à reprendre plus tard:
 - vmware, la configuration des machines virtuelles, partie sur Virtual Network Editor
 - VIM
