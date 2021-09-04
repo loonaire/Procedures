@@ -46,7 +46,7 @@
 
 ## 4. Divers
 ### [1. Le téléchargement de fichier via wget](Divers/wget.md)
-
+### [2. Les bases de Powershell](Divers/powershell.md)
 
 ## Idées
 
