@@ -44,6 +44,9 @@
 ### [17. Configuration réseau](Linux/Configuration%20reseau.md)
 ### [18. Reinitialiser le mode de passe root via le GRUB](Linux/Reinitialiser%20mot%20de%20passe%20root%20via%20le%20GRUB.md)
 
+## 4. Divers
+### [1. Le téléchargement de fichier via wget](Divers/wget.md)
+
 
 Articles non terminés et potentiellement à reprendre plus tard:
 - vmware, la configuration des machines virtuelles, partie sur Virtual Network Editor
