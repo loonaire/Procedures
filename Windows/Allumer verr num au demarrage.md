@@ -14,4 +14,4 @@ Il faut faire pareil avec la même clé qui se trouve dans:
 ```
 
 
-Un fichier reg qui patch directement le registre est disponible au téléchargement [ici](verrnum.reg)
+Un fichier reg qui patch directement le registre est disponible au téléchargement [ici](https://raw.githubusercontent.com/loonaire/TSSR-procedures/main/Windows/verrnum.reg)
