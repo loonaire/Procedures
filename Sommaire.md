@@ -24,7 +24,7 @@
 ### [13. Autoriser le ping](Windows/Autoriser%20ping.md)
 ### [14. Gérer les fonctionnalités de windows](Windows/Gerer%20les%20fonctionnalites%20de%20windows.md)
 ### [15. Activer le vérouillage numérique au démarrage de l'ordinateur](Windows/Allumer%20verr%20num%20au%20demarrage.md)
-
+### [16. Renommer un ordinateur sous Windows](Windows/Renommer%20ordinateur%20windows.md)
 
 
 ## 3. Linux
