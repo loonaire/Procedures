@@ -23,6 +23,9 @@
 ### [12. Bureau à distance](Windows/Bureau%20a%20distance.md)
 ### [13. Autoriser le ping](Windows/Autoriser%20ping.md)
 ### [14. Gérer les fonctionnalités de windows](Windows/Gerer%20les%20fonctionnalites%20de%20windows.md)
+### [15. Activer le vérouillage numérique au démarrage de l'ordinateur](Windows/Allumer%20verr%20num%20au%20demarrage.md)
+
+
 
 ## 3. Linux
 ### [1. Installation du système](Linux/Installation%20Debian.md)
