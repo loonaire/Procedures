@@ -6,11 +6,18 @@
 
 ## 1. Désactiver les dépots de sources cdrom:
 **En mode root**
+
+1. Méthode avec VIM, avec ouverture du fichier
 ```
 > vi -c "%s/^deb cdrom/#deb cdrom/" /etc/apt/sources.list
 ```
+2. Méthode avec sed, n'ouvre pas le fichier
+```
+> sed -i "s/^\(deb cdrom.*\)/# \1/g" /etc/apt/sources.list
+```
 
-Sinon, on peux ouvrir directement le fichier sources.list avec la commande:
+
+3. On peux ouvrir directement le fichier sources.list avec la commande:
 ```
 > apt edit-sources
 ```
