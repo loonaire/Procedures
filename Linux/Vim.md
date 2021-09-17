@@ -10,7 +10,7 @@ syntax on
 ```
 
 Pour un utiliser le fichier pour un utilisater:  
-Le fichier est trouvable [ici](/.vimrc)
+Le fichier est trouvable [ici](https://raw.githubusercontent.com/loonaire/TSSR-procedures/main/Linux/.vimrc)
 
 Pour le télécharger et installer:
 TODO ajouter le lien github
