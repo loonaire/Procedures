@@ -72,6 +72,9 @@ Télécharger seulement le paquet, sans l'installer:
 ```
 # apt download "nom du paquet"
 ```
+> Le paquet sera télécharger à l'endroit ou vous êtes avec votre terminal.
+
+
 > Pour installer le paquet il l'installer avec dpkg:
 > ```
 > dpkg -i "nom du paquet"
