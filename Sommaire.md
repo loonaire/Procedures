@@ -63,3 +63,6 @@ Idées d'articles:
 - Gestion services daemon avec systemctl et la commande services
 - Commande sed (modifier un fichier sans l'ouvrir, sans utiliser vim)
 - connaitre version du système (fichier /etc/debian_version, paquet neofetch)
+
+## 5. Ressources externes
+### [Calculateur réseau de l'université de Grenoble](https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/)
