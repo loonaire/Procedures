@@ -93,7 +93,9 @@ nameserver X.X.X.X
 ```
 
 
-
+## 5. Sur les distributions autres que Debian
+Sur CentOs, on peux utiliser les outils nmcli et nmtui pour configurer le réseau. nmtui permet d'avoir une configuration graphique depuis un terminal. 
+Pour avoir nmtui sous Debian, il faut installer le paquet nmtui.
 
 
 
