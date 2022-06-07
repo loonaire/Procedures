@@ -13,7 +13,6 @@ Pour créer un groupe, il faut aller dans: Datacenter -> Permissions -> Groups
 
 ![](permissions/groups.jpg)
 
-
 ## Gérer les droits des groupes
 
 Pour gérer les permissions des groupes, il faut aller dans: Datacenter -> Permissions 
