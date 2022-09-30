@@ -34,3 +34,6 @@ passwd root
 ```
 
 et enfin on redémarre, la commande de redémarrage ne marche pas donc on redémarre avec le bouton de l'ordinateur ou ctrl+alt+suppr.
+
+
+Valider le changement: exec /sbin/init
